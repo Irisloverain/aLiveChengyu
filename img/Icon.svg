@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="69.599" height="59.302" viewBox="0 0 69.599 59.302">
+  <g id="Group_63" data-name="Group 63" transform="translate(-78.224 -66.443)">
+    <ellipse id="Ellipse_232" data-name="Ellipse 232" cx="2.227" cy="2.324" rx="2.227" ry="2.324" transform="matrix(0.939, -0.345, 0.345, 0.939, 99.476, 81.538)" fill="none" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>
+    <path id="Path_361" data-name="Path 361" d="M147.86,106.08V61.435a4.736,4.736,0,0,0-4.736-4.736h-6.281a24.755,24.755,0,0,0-24.755,24.755h0a24.756,24.756,0,0,0,24.755,24.755h9.775a.414.414,0,0,1,.3.7l-5.8,6.236a2.543,2.543,0,0,1-4.4-1.732v-5.2" transform="translate(-32.863 10.744)" fill="none" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>
+    <path id="Path_362" data-name="Path 362" d="M159.729,68.036h5.435c14.286,0,25.868,11.005,25.868,24.581h0c0,13.576-11.581,24.581-25.868,24.581l-14.645.135" transform="translate(-44.208 7.397)" fill="none" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>
+    <line id="Line_253" data-name="Line 253" y2="4.209" transform="translate(128.549 88.799)" fill="none" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>
+    <line id="Line_254" data-name="Line 254" x1="16.134" transform="translate(120.366 93.709)" fill="none" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>
+    <path id="Path_363" data-name="Path 363" d="M175.768,99.938a17.668,17.668,0,0,0,11.574,12.977" transform="translate(-51.661 -2.021)" fill="none" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>
+    <path id="Path_364" data-name="Path 364" d="M183.707,100.1a16.964,16.964,0,0,1-10.75,12.531" transform="translate(-50.832 -2.07)" fill="none" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>
+    <path id="Path_365" data-name="Path 365" d="M130.292,84.345l-3.236,9.687c-.546,1.637.46,3.416,1.932,3.416h13.424c1.551,0,2.611-1.875,2.035-3.6l-1.859-5.564a1.715,1.715,0,0,0-3.141-.564L138.5,89.13a1.373,1.373,0,0,1-2.334-.277l-2.728-4.9A1.671,1.671,0,0,0,130.292,84.345Z" transform="translate(-37.237 2.979)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2"/>
+  </g>
+</svg>
